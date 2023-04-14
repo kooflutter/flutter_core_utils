@@ -1,0 +1,2 @@
+# flutter_core_utils
+一个flutter核心工具类插件。目前只实现安卓和ios
